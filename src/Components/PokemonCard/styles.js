@@ -27,5 +27,4 @@ export const EvolveButton = styled.button`
     border: none;
     cursor: pointer;
     box-shadow: 0 6px 30px -10px #000000;
-
 `
